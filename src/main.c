@@ -1,7 +1,7 @@
 /*
 -Project name :- Parts of Speech Identifier 
 -Program name main.c
--Author:- Parshwa Shah,Tanmay Patel,Aayush shah
+-Author:- Parshwa Shah
 
 -Brief Description:-This program takes can take a sentence upto 30 word from the user and identify the parts of speech of sentence.
 */
