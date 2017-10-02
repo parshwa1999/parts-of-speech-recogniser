@@ -201,6 +201,7 @@ void file_search() {
 				else if(find[i]!=currin->word)    
 				{
 					//for loop runs till horizontally end of trie ie * or word is found
+					if(currin->hori != NULL)
 					for(currin=currin->hori;currin->word!='*'&&find[i]!=currin->word&&currin->hori!=NULL;currin=currin->hori);
 					if(find[i]==currin->word && currin->word!='\0')    
 						currin=currin->child;		
@@ -236,7 +237,7 @@ void user_input()
 	int i,j;
 	char ch;
 
-	printf("Enter a Word");
+	printf("Enter a Sentence\n");
 	
 	//loopwor to store no of words
 	for(i=0;ch!='\n' && i<WORDS;i++)
