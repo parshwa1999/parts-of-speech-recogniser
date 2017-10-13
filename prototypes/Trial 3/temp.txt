@@ -1,0 +1,10 @@
+apple
+apples
+appricot
+appricots
+lemon
+lemons
+watermelon
+watermelons
+banana
+bananas

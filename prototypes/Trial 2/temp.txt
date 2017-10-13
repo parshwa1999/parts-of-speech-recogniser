@@ -1,0 +1,10 @@
+apple
+apples
+array
+apricot
+groundnut
+source
+string
+tree
+trees
+water
