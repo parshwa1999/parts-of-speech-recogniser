@@ -9,3 +9,4 @@ This program identifies whether the inputed words of sentence are noun, pronoun,
 
 This programs uses trie data structure to identifypart of speech and several other conditions are implied for the confirmation of output
 
+Just run main.c file from the src folder.
